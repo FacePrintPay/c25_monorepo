@@ -1,0 +1,10 @@
+{
+  "name": "@c25/pathos-ai",
+  "version": "1.0.0",
+  "description": "Emotional intelligence, NLP2CODE voice-powered development, and auto-fix diagnostic systems.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Starting pathos-ai...'",
+    "build": "echo 'Building pathos-ai...'"
+  }
+}

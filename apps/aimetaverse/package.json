@@ -1,0 +1,10 @@
+{
+  "name": "@c25/aimetaverse",
+  "version": "1.0.0",
+  "description": "AI-powered creative studio, metaverse platform, and link-in-bio ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Starting aimetaverse...'",
+    "build": "echo 'Building aimetaverse...'"
+  }
+}

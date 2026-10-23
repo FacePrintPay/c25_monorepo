@@ -1,0 +1,10 @@
+{
+  "name": "@c25/sovereign-gtp",
+  "version": "1.0.0",
+  "description": "Sovereign Global Transaction Protocol and planetary mesh boot system.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Starting sovereign-gtp...'",
+    "build": "echo 'Building sovereign-gtp...'"
+  }
+}

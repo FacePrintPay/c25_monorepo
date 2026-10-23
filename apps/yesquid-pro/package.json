@@ -1,0 +1,10 @@
+{
+  "name": "@c25/yesquid-pro",
+  "version": "1.0.0",
+  "description": "Automated client acquisition, Rclone multi-account sync, and real-time task queue monitoring.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Starting yesquid-pro...'",
+    "build": "echo 'Building yesquid-pro...'"
+  }
+}

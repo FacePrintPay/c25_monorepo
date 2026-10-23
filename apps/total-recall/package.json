@@ -1,0 +1,10 @@
+{
+  "name": "@c25/total-recall",
+  "version": "1.0.0",
+  "description": "Forensic evidence preservation, data wipe detection, and internal ingestion tracking.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Starting total-recall...'",
+    "build": "echo 'Building total-recall...'"
+  }
+}

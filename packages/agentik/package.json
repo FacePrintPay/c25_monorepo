@@ -1,0 +1,10 @@
+{
+  "name": "@c25/agentik",
+  "version": "1.0.0",
+  "description": "Core shared library for agent templating, heartbeat loops, and GitHub automation.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Starting agentik...'",
+    "build": "echo 'Building agentik...'"
+  }
+}
