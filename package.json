@@ -1,0 +1,17 @@
+{
+  "name": "c25-unified-platform",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd apps/backend && node server.js",
+    "dev:frontend": "cd apps/frontend && npm run dev",
+    "install:all": "npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
